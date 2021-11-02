@@ -23,4 +23,4 @@ This anaylsis is completed on behalf of the investment firm Alphabet Soup. The c
 
 
 ### Summary
-The deep learning model was never able to surpass the initial accuracy score of 72.97%.  
+The deep learning model was never able to surpass the initial accuracy score of 72.97%.  The inability of any of the optimized models to improve upon the initial accuracy score may be indicative of overfitting, both in the original model and even more so in the optimization attempts. A random forest model may have more success as the more simplistic machine learning model is less prone to overfitting errors. Random forest classifiers are used to determine binary outcomes, are considered robust, and return results much faster than a neural network. 
