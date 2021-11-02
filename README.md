@@ -16,8 +16,12 @@ This anaylsis is completed on behalf of the investment firm Alphabet Soup. The c
 
 ##### Compiling, Training, and Evaluating the Model
 1. The initial model had two hidden layers, with 80 neurons in the first layer and 30 in the second. The activation functions for both hidden layers were ReLU and the funtion for the output layer was sigmoid.  Subsequent models added a hidden layer, increased the neurons to 120, 60, and 20, and changed the activation functions for all three hidden layers to sigmoid. The additional layer, extra neurons, and activation funciton change were all excecuted with the hope of increasing the accuracy fo the model to greater than 75%.
+![original model](https://user-images.githubusercontent.com/86164867/139957315-cec13524-2c93-43dc-88f0-f0c29b646336.PNG)
 2. Despite the changes, the model was never able to achieve the the target accuracy. The original model came the closest, with an accuracy of 72.97%. The optimization models had accuracy scores of 72.92%, 72.71%, and 72.8%.
+![original model accuracy](https://user-images.githubusercontent.com/86164867/139957594-a01eb472-579a-4b54-a681-91996a82c9c6.PNG)
 3. The optimized models added a hidden layer, increased the neurons to 120, 60, and 20, and changed the activation functions for all three hidden layers to sigmoid.
+![3rd optimized model](https://user-images.githubusercontent.com/86164867/139957192-91df19bd-ede0-49e4-bc8a-e91e1fc4c183.PNG)
+
 
 ### Summary
 
