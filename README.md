@@ -6,3 +6,5 @@ This anaylsis is completed on behalf of the investment firm Alphabet Soup. The c
 ### Results
 
 ##### Data Preprocessing
+1. The target variable is 'IS_SUCCESSFUL'. This variable determines whether or not the funding money provided by Alphabet SOup was used effectively.
+2. The feature variables are 
