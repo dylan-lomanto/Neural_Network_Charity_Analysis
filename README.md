@@ -24,4 +24,4 @@ This anaylsis is completed on behalf of the investment firm Alphabet Soup. The c
 
 
 ### Summary
-
+The deep learning model was never able to surpass the initial accuracy score of 72.97%.  
